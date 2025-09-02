@@ -210,7 +210,7 @@ const EmployeeTaskTracker = () => {
           </div>
         )}
 
-        {/* Setup Instructions */}
+        {/* Setup Instructions 
         <div className="mt-8 p-4 bg-yellow-50 border border-yellow-200 rounded-md">
           <h3 className="text-sm font-medium text-yellow-800 mb-2">Setup Required:</h3>
           <ol className="text-xs text-yellow-700 space-y-1 list-decimal list-inside">
@@ -219,7 +219,7 @@ const EmployeeTaskTracker = () => {
             <li>Create a script to handle POST requests (see documentation)</li>
             <li>Deploy as web app and replace YOUR_SCRIPT_ID in the code</li>
           </ol>
-        </div>
+        </div>*/}
       </div>
     </div>
   );
